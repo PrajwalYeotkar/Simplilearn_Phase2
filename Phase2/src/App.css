@@ -1,0 +1,20 @@
+.action {
+  cursor: pointer;
+  float: right;
+  color:rgb(0, 0, 255);
+  margin: 5px;
+}
+
+.dot3 {
+  display:inline-block;
+  width:80%;
+  white-space: nowrap;
+  overflow:hidden !important;
+  text-overflow: ellipsis;
+}
+
+body{
+  background: #64c0d1;
+    color:  #0d23eaeb;
+  }
+
